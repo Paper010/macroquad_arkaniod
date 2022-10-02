@@ -10,3 +10,4 @@ I might eventually update it here and there and fix the bad code. I wont do anyt
 
 ## Warning
 Make sure you have [Rust](https://www.rust-lang.org/) and Cargo installed on your local machine.
+The Project is missing a lot of features
