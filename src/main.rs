@@ -20,7 +20,7 @@ struct Player {
 }
 
 struct Ball {
-    rect:Rect, //although a ball, use rect cus easy, draw ball though
+    rect:Rect, //although a ball, use rect cus easy, draw ball though. MIGHT PRODUCE INCONSISTY IN CHECKING FOR COLLISION
     vel: Vec2
 }
 
