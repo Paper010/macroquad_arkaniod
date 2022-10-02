@@ -7,3 +7,6 @@ And yes, i had to copy the math part because i didnt understand it very well.
 
 ## Updates
 I might eventually update it here and there and fix the bad code. I wont do anything about it for a while.
+
+## Warning
+Make sure you have [Rust](https://www.rust-lang.org/) and Cargo installed on your local machine.
